@@ -94,3 +94,13 @@ percentile calculation, and username-availability checks all run as `security
 definer` Postgres functions rather than plain table reads — anonymous clients call a
 function with a narrow, intentional surface instead of querying `test_results`
 directly under RLS, so the policy surface stays small and auditable.
+
+## More from this developer
+
+- [Tanweer for iOS](https://github.com/lqji/tanweer-ios-showcase) — a Quran, prayer times, and Qiblah companion app
+- [Tanweer for Android](https://github.com/lqji/tanweer-android-showcase) — the same app ported to Kotlin + Jetpack Compose
+- [Full portfolio →](https://github.com/lqji/portfolio)
+
+---
+
+Built and maintained by **Ahmed Abdullah**.
