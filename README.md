@@ -1,8 +1,10 @@
 # Type Faster
 
-A typing test app with personalized practice drills and live multiplayer racing. Built as a React web app and shipped natively to iOS and Android through Capacitor.
+Type Faster is a typing test I built because most of the ones out there stop at showing you a number. This one watches which keys actually slow you down and builds short drills around them, and it lets you race other people in real time instead of just typing alone against a clock. It started as a web app and now runs natively on iOS and Android too, same codebase, wrapped through Capacitor.
 
 This repo is a portfolio case study. The app itself is closed source, so what you will find here is screenshots, a plain explanation of how it is built, and a few of the harder bugs I ran into along the way.
+
+Try it here: https://clartagency.com/type-faster
 
 ## Screenshots
 
